@@ -1,4 +1,4 @@
-# rabbitMQServiceOne
+# rabbitMQServiceTwo
 
 1 Copy repository to your local machine
 
